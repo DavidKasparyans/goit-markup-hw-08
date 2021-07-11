@@ -62,7 +62,7 @@
     color: var(--black-color);
     &:hover,
     &:focus {
-      color: var(--blue-color);
+      fill: var(--blue-color);
     }
     @media screen and (min-width: 768px) {
       display: none;

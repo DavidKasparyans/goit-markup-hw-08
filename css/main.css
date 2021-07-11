@@ -1722,7 +1722,7 @@ body {
 }
 
 .mob-menu__close:hover, .mob-menu__close:focus {
-  color: var(--blue-color);
+  fill: var(--blue-color);
 }
 
 @media screen and (min-width: 768px) {
