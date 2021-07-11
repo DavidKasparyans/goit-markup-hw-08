@@ -130,7 +130,7 @@
 
   &:focus,
   &:hover {
-    border-color: var(--blue-color);
+    outline-color: var(--blue-color);
   }
 
   &:focus + .modal-form__svg,
@@ -174,7 +174,7 @@
 
   &:focus,
   &:hover {
-    border-color: var(--blue-color);
+    outline-color: var(--blue-color);
   }
   @media screen and (max-width: 479px) {
     height: 100px;
