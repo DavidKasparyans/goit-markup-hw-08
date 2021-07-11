@@ -1487,7 +1487,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-image: url("../../images/icons/like.svg");
+  background-image: url("../images/icons/like.svg");
   background-size: contain;
   background-origin: border-box;
 }
